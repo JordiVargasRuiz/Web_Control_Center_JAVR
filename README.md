@@ -7,6 +7,7 @@
 ## 📋 Descripción
 
 **Web Control Center** es una aplicación de monitoreo en tiempo real de sitios web que te permite supervisar la disponibilidad, latencia y estado de múltiples servidores desde una interfaz gráfica intuitiva. Ideal para administradores de sistemas, DevOps y equipos de operaciones que necesitan mantener la visibilidad sobre la salud de sus infraestructuras web.
+<img width="1000" height="751" alt="image" src="https://github.com/user-attachments/assets/82adeabe-834e-44c8-b004-b91bf22b7555" />
 
 ## ✨ Características
 
@@ -69,6 +70,7 @@ python main.py
    - Gráficas de latencia actualizadas en tiempo real
    - Historial de eventos en el panel de logs
 4. **Exportar reporte**: Genera un PDF con los datos recopilados
+<img width="999" height="743" alt="image" src="https://github.com/user-attachments/assets/2f151503-53b8-4e5f-9aff-b3c32adb981c" />
 
 ## 📁 Estructura del Proyecto
 
@@ -125,6 +127,8 @@ Puedes personalizar varios aspectos de la aplicación editando directamente `mai
 - Los eventos se registran en la aplicación en tiempo real
 - Los reportes PDF se generan automáticamente con timestamp
 - El historial se mantiene en memoria durante la sesión
+<img width="1002" height="748" alt="image" src="https://github.com/user-attachments/assets/a66050b8-9421-47ce-83c8-d62209920a0f" />
+
 
 ## 🐛 Troubleshooting
 
