@@ -102,6 +102,7 @@ Web_Control_Center/
 # - https://github.com
 # - https://ejemplo.local:8080
 ```
+<img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/9fb4176e-0d73-41f4-b55c-0f11f0db408d" />
 
 ## 🔧 Configuración
 
